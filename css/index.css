@@ -145,7 +145,7 @@ button:hover{
         font-size:5rem;
         margin:0;
         margin-bottom:2%;
-        line-height: 1;
+        line-height: 1.2;
     }
     img {	
         height:20rem;	
@@ -204,9 +204,11 @@ button:hover{
         width:70%;
         text-align:center;
         margin-top: 2%;
+        
     }
     .artist img {
         width:70%;
+        margin-bottom:3%;
     }
     .artist a {
         font-size: 1.6rem;
@@ -214,7 +216,7 @@ button:hover{
     }
     .bio{
         font-size: 1.17rem;
-        margin: 5% 0;
+        margin:3% 0 0;
         padding:0;
     }
     .one {
@@ -228,7 +230,7 @@ button:hover{
     }
     .four{
         order:4;
-        margin-bottom:20%;
+        margin-bottom:30%;
     }
 
 }
