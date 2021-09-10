@@ -22,11 +22,33 @@ Commit your code regularly and meaningfully.
 
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
-1. How would you describe acessibility on the web to someone new to programming?
+1. How would you describe accessibility on the web to someone new to programming?
+
+- Web accessibility means that people with disabilities can have a good user experience while surfing through your website. Not only that
+but more specifically, people can perceive, navigate and interact with the website more easily.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+- 3 different things you can do to ensure a website is accessible is by using scalable units of measurement, including proper alt text for images, and using headings correctly to organize the structure of the content.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+- a variable is a value that can change. For example, think of your favorite website, in this case, let's say facebook. Facebook has a like button that if you click on it, a value of one like gets added to that variable. In other words, every changing bit of information in the web are all variables. It's where you store your data.
+
 4. What is the purpose of using functions in code?
+
+- the purpose of using functions in code is to keep your code DRY (Do not Repeat Yourself). In other words, we don't want to keep copying and pasting our code the next time we need to use that same lines of code. Functions are there so that we don't need to do that, we can just easily put our code inside that function and the next time we need to use it, we don't need to copy and paste it every single time, we just write that function and it'll give us the same result.
+
 5. How do you access a key inside of an object inside of an array?
+
+- Example
+
+const array = [{ key:'value', key2: 'value'}, {key:'value', key2: 'value'}];
+
+ 1. create an empty array 
+ 2. use the for loop method to access the key inside the object inside of an array
+ 3. use the if method
+ 4. console.log (empty array)
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
