@@ -134,6 +134,7 @@ button:hover{
     width:100%;
 }
 
+/* Media Queries */
 /* Mobile */
 @media (max-width:500px){
 	/* when the screen size reaches 500px or smaller apply these styles */
